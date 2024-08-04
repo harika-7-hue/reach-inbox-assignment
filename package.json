@@ -1,0 +1,14 @@
+{
+    "name": "reach-inbox-assignment",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "eact": "^17.0.2",
+        "eact-dom": "^17.0.2",
+        "eact-router-dom": "^5.2.0",
+        "ckeditor4-react": "^1.3.0"
+    },
+    "scripts": {
+        "start": "parcel public/index.html"
+    }
+}
